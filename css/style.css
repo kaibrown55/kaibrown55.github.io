@@ -26,17 +26,14 @@ header {
 }
  
 h1 {
-    font-size: 6rem;
-    font-weight:100;
-    text-transform: capitalize;
-    color: #333;
-    font-family: Merriweather;
-    text-shadow:2px 2px 3px #8B0000;      
-    margin:0;
-    text-align: center; 
+  font-size: 5rem;
+  text-transform: capitalize;
+  text-shadow:
+    1px 1px 1px red,
+    2px 2px 1px red;
+  text-align: center;
+  letter-spacing: 2px;
 }
-
-
 }
 
 h1 span {
