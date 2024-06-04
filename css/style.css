@@ -30,7 +30,7 @@ h1 {
     font-weight:100;
     text-transform: capitalize;
     color: #333;
-    font-family: Impact;
+    font-family: Merriweather;
     text-shadow:2px 2px 3px #8B0000;      
     margin:0;
     text-align: center 
@@ -46,11 +46,13 @@ h1 span {
 
 h2 {
     
-    font-size:2rem;
+    font-size:3rem;
     margin-top:0;
-    font-weight:100;
-    font-family:'Lato', sans-serif;
-    
+    font-weight:75;
+    font-family: Merriweather;
+    color: #333;
+    text-shadow:2px 2px 3px #8B0000;    
+    text-align: center 
 }
 
 p, li {
