@@ -46,6 +46,16 @@ h3 {
     
 }
 
+h4 {
+    
+    font-size: 1rem;
+    color: #333;
+    font-family: Merriweather;
+    text-shadow:1px 1px 1px #D5310E;      
+    text-align: center;
+    
+}
+
 p, li {
   font-size: 1rem;
   line-height: 1.5;
